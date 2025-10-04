@@ -7057,7 +7057,7 @@
 		)
 		(uuid "78caa691-e8c5-4acd-a777-dd78ac413e4b")
 	)
-	(label "IO45"
+	(label "IO48"
 		(at 207.01 34.29 0)
 		(effects
 			(font
@@ -7227,7 +7227,7 @@
 		)
 		(uuid "9d2280f2-15a6-45b3-a0b0-06acc2bac90c")
 	)
-	(label "IO48"
+	(label "IO45"
 		(at 207.01 31.75 0)
 		(effects
 			(font
